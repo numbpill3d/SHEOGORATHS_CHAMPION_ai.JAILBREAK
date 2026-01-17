@@ -551,8 +551,8 @@ Specific inspirations:
 
 ### Contributors
 
-- **Original Author**: [Your name/handle]
-- **Special Thanks**: [Contributors who helped develop/test]
+- **Original Author**: [SPLICER SCORN, "numbpilled"]
+- **Special Thanks**: [elder plinus, pliny the liberator]
 
 Want to contribute? See `CONTRIBUTING.md`
 
